@@ -34,6 +34,8 @@
 - Android: Fix Scrollview with content padding (#1505)
 - Android: Native Scrollview snap min/max and bounce scroll (#1509)
 - Android: Scrolling detect Improvement (#1512)
+- Android: Add Icon Symbols using Material Symbols (#1513)
+- iOS: Add Icon Symbols using SF Symbols (#1513)
 
 ### Fuse.Controls.Primitives
 - iOS: Fix crash when removing Shadow (#1498)
